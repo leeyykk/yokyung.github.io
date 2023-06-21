@@ -1,5 +1,5 @@
 Hi! Welcome to my Portfolio! You can visit my portfolio here: 
-[Yokyung's Portfolio](https://leeyykk.github.io/yokyung.github.io)
+[Yokyung's Portfolio](https://leeyykk.github.io/yokyung.github.io).
 
 
 Credits:
