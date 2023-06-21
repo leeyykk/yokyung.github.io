@@ -1,4 +1,4 @@
-Hi! Welcome to my Portfolio! You can visit my portfolio here: [description](https://www.google.com)
+Hi! Welcome to my Portfolio! You can visit my portfolio here: [Yokyung's Portfolio](https://leeyykk.github.io/yokyung.github.io/)
 
 Credits:
 	Demo Images:
