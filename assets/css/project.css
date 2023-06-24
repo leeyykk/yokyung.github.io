@@ -145,6 +145,14 @@ p{
   margin-bottom: 30px;
 }
 
+.tools{
+  font-family: "Open Sans", sans-serif;
+  font-size: 12pt;
+  font-style: italic;
+  text-align: right;
+  color:gray;
+  margin-top: 30px;
+}
 
 
 @media (max-width: 300px) {
