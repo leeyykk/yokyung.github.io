@@ -148,9 +148,23 @@ p{
   place-items: center;
 }
 
+.caption{
+  font-family: "Open Sans", sans-serif;
+  margin-bottom: 10px;
+}
+
 .video{
   max-width: 100%; /* Calculate the maximum width of the image based on text width and margin */
   margin-bottom: 30px;
+}
+
+.tools{
+  font-family: "Open Sans", sans-serif;
+  font-size: 12pt;
+  font-style: italic;
+  text-align: right;
+  color:gray;
+  margin-top: 30px;
 }
 
 
